@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/mikel/vimconf'
+let g:netrw_dirhist_6='/home/mikel/vimconf/.vim'
+let g:netrw_dirhist_5='/home/mikel/vimconf/.vim/settings'
+let g:netrw_dirhist_4='/home/mikel/vimconf/.vim'
+let g:netrw_dirhist_3='/home/mikel/vimconf'
+let g:netrw_dirhist_2='/home/mikel/vimconf/.vim'
+let g:netrw_dirhist_1='/home/mikel/vimconf/.vim/settings'
+let g:netrw_dirhist_0='/home/mikel/vimconf/.vim'
+let g:netrw_dirhist_9='/home/mikel/vimconf'
+let g:netrw_dirhist_8='/home/mikel/vimconf/.vim'
