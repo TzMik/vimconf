@@ -4,6 +4,8 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 " Dracula theme
 Plug 'dracula/vim', { 'as': 'dracula' }
+" Gruvbox theme
+Plug 'morhetz/gruvbox'
 " coc autocomplete
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " Airline status bar

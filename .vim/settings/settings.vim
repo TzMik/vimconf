@@ -2,7 +2,11 @@
 
 " INDENTATION
 set autoindent " la siguiente linea se indenta automaticamente
+set expandtab
+set shiftround
 set shiftwidth=4 " indenta 4 espacios
+set smarttab
+set tabstop=4
 
 " LINES
 set rnu " activa numero lineas relativos
@@ -21,6 +25,7 @@ set encoding=utf-8
 
 " CURSOR
 set cursorline " marca la linea en la que está el cursor set cursorline
+set clipboard=unnamedplus " se copia en el clipboard lo que se copie en vim
 
 " ERRORS
 set noerrorbells " elimina el 'bip' de cuando sucede un error
@@ -31,7 +36,7 @@ set visualbell " en vez de sonar 'bip' se despliega el mensaje de error
 let g:airline#extensions#tabline#enabled = 1
 
 " SYNTASTIC
-set statusline+=%#warningmsg#
+" set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
 let g:syntastic_always_populate_loc_list = 1
