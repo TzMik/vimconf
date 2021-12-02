@@ -1,12 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/mikel/.vim'
+let g:netrw_dirhist_4='/home/mikel/Documentos/templates/appkit-mobile/code'
+let g:netrw_dirhist_3='/home/mikel/Documentos/fer/app'
+let g:netrw_dirhist_2='/home/mikel/Documentos/fer'
 let g:netrw_dirhist_1='/home/mikel/Documentos/blog/_posts'
 let g:netrw_dirhist_0='/home/mikel/Documentos/blog'
 let g:netrw_dirhist_9='/home/mikel/Documentos/blog/_posts'
 let g:netrw_dirhist_8='/home/mikel/Documentos/blog'
 let g:netrw_dirhist_7='/home/mikel/Documentos/fer/css'
 let g:netrw_dirhist_6='/home/mikel/Documentos/fer/css/fonts'
-let g:netrw_dirhist_5='/home/mikel/Documentos/fer/css'
-let g:netrw_dirhist_4='/home/mikel/Documentos/fer/css/fonts'
-let g:netrw_dirhist_3='/home/mikel/Documentos/fer/css'
-let g:netrw_dirhist_2='/home/mikel/Documentos/fer'

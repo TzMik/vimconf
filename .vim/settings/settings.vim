@@ -17,7 +17,6 @@ set nowrap " despliega toda la linea en vez de separarla en varias lineas
 syntax on " activa el highlighting de sintaxis
 
 " SEARCHING
-set ignorecase " ignora mayusculas y minusculas en las busquedas
 set wildmenu " muestra concidencias en un menu de tabs
 
 " TEXT OPTIONS
@@ -32,9 +31,6 @@ set noerrorbells " elimina el 'bip' de cuando sucede un error
 set visualbell " en vez de sonar 'bip' se despliega el mensaje de error
 
 " Plugins configurations
-" AIRLINE
-let g:airline#extensions#tabline#enabled = 1
-
 " SYNTASTIC
 " set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
