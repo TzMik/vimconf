@@ -13,3 +13,8 @@ nmap <silent> gd :call CocAction('jumpDefinition', 'e')<CR>
 " Change tabs
 nmap <Tab> gt
 nmap <S-Tab> gT
+" Move between buffers
+nmap <Space>n :bn<CR>
+nmap <Space>p :bp<CR>
+" Open nerdtree menu
+nmap <Space>t :NERDTreeToggle<CR>

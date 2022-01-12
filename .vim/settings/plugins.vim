@@ -22,4 +22,6 @@ Plug 'tpope/vim-fugitive'
 Plug 'airblade/vim-gitgutter'
 " auto pairs
 Plug 'jiangmiao/auto-pairs'
+" Nerd tree
+Plug 'preservim/nerdtree'
 call plug#end()
