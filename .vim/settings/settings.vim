@@ -2,11 +2,9 @@
 
 " INDENTATION
 set autoindent " la siguiente linea se indenta automaticamente
-set expandtab
-set shiftround
-set shiftwidth=4 " indenta 4 espacios
-set smarttab
+set noexpandtab
 set tabstop=4
+set shiftwidth=4 " indenta 4 espacios
 
 " LINES
 set rnu " activa numero lineas relativos
