@@ -6,7 +6,3 @@ source $HOME/.vim/settings/settings.vim
 source $HOME/.vim/settings/mappings.vim
 " colorscheme
 source $HOME/.vim/settings/theme.vim
-" fidanto commands
-source $HOME/.vim/settings/fidanto.vim
-" fnsc commands
-source $HOME/.vim/settings/fnsc.vim
